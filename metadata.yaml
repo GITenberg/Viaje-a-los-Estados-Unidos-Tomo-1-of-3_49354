@@ -19,5 +19,7 @@ language: es
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Viaje a los Estados Unidos, Tomo 1 (of 3)
 url: http://www.gutenberg.org/ebooks/49354
